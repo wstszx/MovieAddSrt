@@ -1,0 +1,31 @@
+1
+00:00:01,000 --> 00:00:04,000
+Welcome to the Video Subtitle Editor Demo!
+
+2
+00:00:04,500 --> 00:00:08,000
+Try different subtitle styles using the style selector above.
+
+3
+00:00:09,000 --> 00:00:13,000
+Each style is carefully crafted for optimal readability and aesthetics.
+
+4
+00:00:14,000 --> 00:00:18,000
+The Netflix style works great for professional content,
+while YouTube style is perfect for casual videos.
+
+5
+00:00:19,000 --> 00:00:23,000
+💡 Pro tip: Test your subtitles with different backgrounds
+to ensure they're readable in all scenes.
+
+6
+00:00:24,000 --> 00:00:28,000
+You can export your video with these exact styles
+maintained in the final output.
+
+7
+00:00:29,000 --> 00:00:33,000
+Thanks for using our subtitle editor!
+We hope you create amazing content.
