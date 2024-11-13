@@ -1,3 +1,6 @@
+/* @import-normalize; */ /* Suppress VS Code warnings */
+/*! @import */
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;

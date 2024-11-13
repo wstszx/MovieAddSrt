@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { VideoPlayer } from './components/VideoPlayer';
 import { StyleSelector } from './components/StyleSelector';
 import { SubtitleEditor } from './components/SubtitleEditor';
@@ -17,7 +17,7 @@ export default function App() {
     textShadow: '2px 2px 2px rgba(0, 0, 0, 0.5)'
   });
   const [subtitles, setSubtitles] = useState<Subtitle[]>(sampleSubtitles);
-  const [videoState, setVideoState] = useState<VideoState>({
+  const [, setVideoState] = useState<VideoState>({
     currentTime: 0,
     duration: 0,
     isPlaying: false
